@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import RegisterPage from "./pages/RegisterPage/RegisterPage";
 import LoginPage from "./pages/LoginPage/LoginPage";
 import MapPage from "./pages/MapPage/MapPage";
-
+//testing yeonu 0506
 function App() {
   return (
     <div className="App">
